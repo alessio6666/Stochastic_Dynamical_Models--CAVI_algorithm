@@ -11,8 +11,7 @@ The analysis explores the intersection of statistical mechanics and approximate 
 * **Convergence Limits**: Rigorous investigation of the algorithm's convergence properties and fixed points within the framework of discrete dynamical systems.
 
 ## Repository Structure
-* `docs/`:
-    * `VI_Report.pdf`: Comprehensive analysis, mathematical derivations and conclusions regarding the CAVI algorithm on the Ising model.
+* `VI_Report.pdf`: Comprehensive analysis, mathematical derivations and conclusions regarding the CAVI algorithm on the Ising model.
 
 ## Author
 * **[Alessio Pani](https://www.linkedin.com/in/alessio-pani-8739b93bb)** 
