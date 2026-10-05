@@ -1,4 +1,4 @@
-# Stochastic Dynamical Models: CAVI Algorithm ⚙️
+# Stochastic Dynamical Models: CAVI Algorithm
 > **Coordinate Ascent Variational Inference and the Two-Node Ising Model**
 
 ## 📌 Project Overview
